@@ -3,11 +3,11 @@
   "links":
   [
     {
-      "rel" : "me",
-      "type" : "text/html",
+      "rel": "me",
+      "type": "text/html",
       "href": "http://blog.ant0ine.com",
-      "titles" : {
-        "en-us" : "ant0ine's blog"
+      "titles": {
+        "en-us": "ant0ine's blog"
       }
     }
   ]
